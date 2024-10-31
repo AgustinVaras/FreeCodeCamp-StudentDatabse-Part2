@@ -267,3 +267,6 @@ git add students.sql
 git commit -m "Curso terminado"
 git pull origin main --rebase
 git add .
+git commit
+git commit -m "Commit provisorio"
+git pull origin main --rebase
